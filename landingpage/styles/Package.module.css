@@ -1,0 +1,61 @@
+
+.container{
+  background-color: #F4F8FF;
+
+}
+.main-container{
+  background-color: #F4F8FF;
+  padding-left: 30px;
+  padding-top: 47px;
+}
+.package-background-color{
+  background-color: #F5F5F5;
+}
+
+.rest-container{
+  margin-top: 30px;
+}
+
+.text-style{
+  color: #333333;
+  font-size: 18px;
+  font-family: Poppins;
+  font-weight: bold;
+}
+
+.header-text-style{
+  color: #333333;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Poppins;
+}
+
+.normal-text-style{
+  color: #333333;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: Poppins;
+}
+
+.normal-container{
+    background-color: #F4F8FF;
+    margin-top: 57px;
+}
+.other-container{
+    background-color: #F4F8FF;
+    margin-top: 12px;
+}
+
+.card-body-text{
+  color: #333333;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: Poppins;
+}
+
+.money-text{
+  color: #333333;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins;
+}
